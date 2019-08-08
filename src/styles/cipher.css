@@ -1,0 +1,38 @@
+textarea {
+    width: 60vw;
+    display: block;
+    height: 30vh;
+}
+
+input {
+    display: block;
+    width: 60vw;
+}
+
+button {
+    width: 10vw;
+    min-width: 70px;
+    height: 7vh;
+    border-radius: 100px;
+}
+
+.btn-group {
+    margin: 3vh 3vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-green {
+    background-color: green;
+    color: white;
+}
+
+.btn-grey {
+    background-color: grey;
+    color: white;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 2vh;
+}
